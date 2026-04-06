@@ -7,7 +7,7 @@ This project performs basic arithmetic operations with a clean and user-friendly
 
 ## 🚀 Live Demo
 
- https://dnyaneshwari047-gif.github.io/CodeAlpha_Calculator/---
+ https://dnyaneshwari047-gif.github.io/CodeAlpha_Calculator/
 
 ## 📌 About the Project
 
